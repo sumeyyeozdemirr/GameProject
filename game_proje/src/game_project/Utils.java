@@ -1,4 +1,4 @@
-package game_proje;
+package game_project;
 
 public class Utils {
 	public static void runLoggers(Logger[] loggers, String message) {

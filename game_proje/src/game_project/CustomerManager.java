@@ -1,4 +1,4 @@
-package game_proje;
+package game_project;
 
 public class CustomerManager {
 	
